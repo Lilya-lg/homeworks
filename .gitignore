@@ -1,5 +1,8 @@
 .settings/
-.bin/
+bin/
 .lib/
 .images/
 pudge.txt/
+.classpath
+.project
+.gitignore
