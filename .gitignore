@@ -3,3 +3,6 @@
 .lib/
 .images/
 pudge.txt/
+.classpath
+.project
+.gitignore
